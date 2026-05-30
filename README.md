@@ -45,12 +45,6 @@ cd client
 npm install
 ```
 
-Create `client/.env` if the API is not running on the default backend URL:
-
-```env
-VITE_API_URL=http://localhost:5000/api
-```
-
 Start the frontend:
 
 ```bash
@@ -61,6 +55,15 @@ Build the frontend:
 
 ```bash
 npm run build
+```
+
+### Default Admin Login
+
+An admin user is already created for testing:
+
+```text
+email: admin@gmail.com
+password: 123
 ```
 
 ## Architecture Overview
