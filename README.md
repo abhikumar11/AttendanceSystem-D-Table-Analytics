@@ -1,5 +1,12 @@
 # Attendance Management System
 
+## Live Links
+
+- Frontend: https://attendance-system-frontent.vercel.app
+- Backend: https://attendancesystem-d-table-analytics.onrender.com
+- Admin email:admin@gmail.com
+- Admin password: 123
+
 Full-stack MERN attendance management app for employee punch-in/punch-out tracking, manager review, admin oversight, overtime approval, and Excel reporting.
 
 ## Setup Instructions
